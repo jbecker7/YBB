@@ -6,3 +6,5 @@ I, like everyone, like to watch YouTube. In particular, I like to watch very, ve
 YouTube... but Blockbuster is a Python app that limits how much YouTube you watch by treating a YouTube video like a VHS or DVD rented from a video store. You can only watch one video per day. If you haven't watched yesterday's video, you don't get to get a different one. Watch your video, delete it, wait until tomorrow for another. The list of videos is cultivated from your list of subscriptions--it offers the newest video from each of the channels you subscribe to. As such, it makes sense to subscribe to maybe a dozen or two dozen channels with good content. If you already watched all the latest videos, check again tomorrow.
 
 This is far from perfect, but I think it's a nice step towards a more "pull-based" method to consume video content.
+
+Please do not download videos which you do not have permission to download.
